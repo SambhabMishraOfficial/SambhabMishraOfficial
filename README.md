@@ -2,7 +2,7 @@
 - 👀 I’m interested in Biological sciences especially the signalling pathways
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Research projects
-- 📫 How to reach me 
+- 📫 Reach me @ - Mishrasambhab620@gmail.com
 
 <!---
 SambhabMishraOfficial/SambhabMishraOfficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
