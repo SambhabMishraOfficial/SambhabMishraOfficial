@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SambhabMishraOfficial
-- 👀 I’m interested in Biological sciences especially the signalling pathways
-- 🌱 I’m currently learning Python and R
+- 👀 signalling pathways
+- 🌱 Python and R
 - 💞️ I’m looking to collaborate on Research projects
 - 📫 Reach me @ - Mishrasambhab620@gmail.com
 
